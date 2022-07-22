@@ -4,7 +4,7 @@
 ### *This was made with with the help of a [YouTube tutorial](https://www.youtube.com/watch?v=aFISwq3wteY) by Ania Kubów.*
 
 
-![screenshot of google translate clone](/src/images/google_translate.png)
+![screenshot of google translate clone](./src/images/google_translate.png)
 
 
 #### Use this guide if you'd like to run this app locally.
